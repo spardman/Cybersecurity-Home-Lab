@@ -28,4 +28,4 @@ The environment is hosted on **Oracle VirtualBox**, utilizing a segmented networ
 ## 📧 Professional Contact
 **Dwan Edwards**  
 *MBA, IT Management | Security+ ce | Certified Ethical Hacker (CEH)*
-*   [[LinkedIn Profile](PASTE_YOUR_LINKEDIN_URL_HERE)](https://www.linkedin.com/in/dwan-edwards/)
+*   [[LinkedIn Profile](https://www.linkedin.com/in/dwan-edwards/)]
